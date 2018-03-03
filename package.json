@@ -1,0 +1,20 @@
+{
+  "name": "project-potato",
+  "version": "1.0.0",
+  "description": "lets build something cool with potatos",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekfries/project-potato.git"
+  },
+  "keywords": [],
+  "author": "Kara Le Fort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekfries/project-potato/issues"
+  },
+  "homepage": "https://github.com/lekfries/project-potato#readme"
+}
