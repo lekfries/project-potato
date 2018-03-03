@@ -1,2 +1,3 @@
 # project-potato
-lets build something
+lets build something cool with potatos
+
